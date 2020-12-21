@@ -15,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="composer.json" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -118,7 +119,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.css" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -140,7 +143,8 @@
       <workItem from="1608112066772" duration="929000" />
       <workItem from="1608113004833" duration="207000" />
       <workItem from="1608113376481" duration="1743000" />
-      <workItem from="1608195593739" duration="3008000" />
+      <workItem from="1608195593739" duration="3652000" />
+      <workItem from="1608539318623" duration="1506000" />
     </task>
     <servers />
   </component>
